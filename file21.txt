@@ -1,2 +1,6 @@
-Branca test code sample
+<<<<<<< HEAD
+Brancha test code sample
+=======
+Branchb test code sample
+>>>>>>> branchb
 
